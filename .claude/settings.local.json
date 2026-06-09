@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(not exist *)",
+      "Bash(mkdir -p \"/mnt/c/Users/criss/OneDrive/Escritorio/Contable Contigo/.claude\")",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git rm *)"
+    ]
+  }
+}
